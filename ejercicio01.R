@@ -2,8 +2,8 @@
 
 solucion <- function() {
   # Asigna valores a 'a' y 'b' de manera que el valor asignado a 's' sea 100
-  a = 60 <- NULL # asigna valor aquí
-  b = 40 <- NULL # asigna valor aquí
-  s = a + b <- a+b
+  a <- 60 # asigna valor aquí
+  b <- 40 # asigna valor aquí
+  s <- a+b
   return(s)
 }
