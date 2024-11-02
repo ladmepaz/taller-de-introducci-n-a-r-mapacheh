@@ -8,8 +8,8 @@ solucion <- function() {
   a <- 10
   b <- 20
   s <- a+b
+  s <- s+5
   a <- 8
   s <- s+a
-  s <- s+5
   return(s)
 }
